@@ -18,4 +18,4 @@ A collection of marketing analytics projects using Python, SQL and visualization
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, RapidAPI.
 
-**Results:** Carousels outperform reels in engagement; late-week daytime posts (especially Thursday at 15:00) show the strongest engagement; a small set of hashtags consistently correlates with higher engagement.
+**Results:** Carousels outperform reels in engagement; late-week daytime posts show the strongest engagement; a small set of hashtags consistently correlates with higher engagement.
