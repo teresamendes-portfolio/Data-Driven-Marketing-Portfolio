@@ -1,5 +1,3 @@
-# Data-Driven-Marketing-Portfolio
-
 # Data-Driven Marketing Portfolio
 
 A collection of marketing analytics projects using Python, SQL and visualization to support real business decisions.
