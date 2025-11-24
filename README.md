@@ -14,7 +14,7 @@ A collection of marketing analytics projects using Python, SQL and visualization
 
 **Description:** Using public Instagram data collected via RapidAPI, this project builds a clean post-level dataset and analyzes performance across content types, hashtags, and posting schedule (weekday/hour). The analysis highlights what performs best and translates findings into actionable content strategy recommendations.
 
-**Skills:** data cleaning, feature engineering, exploratory data analysis (EDA), engagement metrics, data visualization.
+**Skills:** data collection via APIs (RapidAPI), data cleaning, feature engineering, exploratory data analysis (EDA), engagement metrics, data visualization.
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, RapidAPI.
 
