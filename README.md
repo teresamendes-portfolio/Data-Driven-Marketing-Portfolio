@@ -8,7 +8,8 @@ A collection of marketing analytics projects using Python, SQL and visualization
 
 ### Instagram Engagement Analysis - Sephora Portugal
 
-**Code:** [What Drives Engagement on Sephora Portugal’s Instagram](PortfolioProjects/Python_Projects/instagram_engagement_analysis_sephora_pt.ipynb)
+**Code:** [What Drives Engagement on Sephora Portugal’s Instagram](
+https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/instagram_engagement_analysis_sephora_pt.ipynb
 
 **Goal:** Identify the content formats, hashtags, and posting times that drive higher engagement for Sephora Portugal.
 
