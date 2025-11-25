@@ -26,7 +26,6 @@ A collection of marketing analytics projects using Python, SQL and visualization
 
 **Code:** [Ronaldo–Al-Nassr Transfer: What Fans Said on Instagram](Python_Projects/nlp_text_mining_ronaldo_alnassr_instagram.ipynb)
 
-
 **Goal:**  
 Analyze public reactions to Cristiano Ronaldo’s transfer to Al-Nassr using Instagram comments, identifying dominant themes, sentiment patterns, and conversation clusters.
 
