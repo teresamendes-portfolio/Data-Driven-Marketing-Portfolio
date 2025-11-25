@@ -6,9 +6,9 @@ A collection of marketing analytics projects using Python, SQL and visualization
 
 ## Projects
 
-- ### Instagram Engagement Analysis - Sephora Portugal
+- ### What Drives Engagement on Sephora Portugal’s Instagram
 
-**Code:** [What Drives Engagement on Sephora Portugal’s Instagram](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/instagram_engagement_analysis_sephora_pt.ipynb)
+**Code:** [Notebook – Sephora IG Engagement Analysis](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/instagram_engagement_analysis_sephora_pt.ipynb)
 
 **Goal:** Identify the content formats, hashtags, and posting times that drive higher engagement for Sephora Portugal.
 
@@ -22,9 +22,9 @@ A collection of marketing analytics projects using Python, SQL and visualization
 
 
 
-- ### Instagram Comment Mining - Ronaldo’s Transfer to Al-Nassr
+- ### Ronaldo–Al-Nassr Transfer: What Fans Said on Instagram
 
-**Code:** [Ronaldo–Al-Nassr Transfer: What Fans Said on Instagram](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/nlp_text_mining_ronaldo_alnassr_instagram.ipynb)
+**Code:** [Notebook – Ronaldo Transfer to Al-Nassr Instagram Comment Mining](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/nlp_text_mining_ronaldo_alnassr_instagram.ipynb)
 
 **Goal:**  
 Analyze public reactions to Cristiano Ronaldo’s transfer to Al-Nassr using Instagram comments, identifying dominant themes, sentiment patterns, and conversation clusters.
