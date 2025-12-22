@@ -39,7 +39,11 @@ LDA and clustering reveal narratives around admiration/legacy, season and perfor
 
 - ### Hotel H Guest Segmentation (K-Means + PCA + Hierarchical Validation)
 
-**Code:** Notebook 01 – Data Prep & EDA | Notebook 02 – K-Means + PCA | Notebook 03 – Hierarchical Clustering
+**Code:** 
+[Notebook 01 – Data Prep & EDA](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/01_DataPrep.ipynb) |
+[Notebook 02 – K-Means + PCA](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/02_Clustering_KMeans_PCA.ipynb) |
+[Notebook 03 – Hierarchical Clustering](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/03_Clustering_Hierarchical.ipynb)
+
 
 **Goal:** Build a data-driven guest segmentation for a Lisbon hotel case study, beyond simple country-of-origin grouping.
 
