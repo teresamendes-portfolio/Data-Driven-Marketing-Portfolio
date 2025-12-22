@@ -41,3 +41,12 @@ Python, Pandas, NLTK, TextBlob, Scikit-learn, NetworkX, Matplotlib, Seaborn, Wor
 **Results (high level):**  
 English comments are mainly supportive, dominated by admiration/legacy terms (e.g., “goat”, “best”, “love”). Sentiment is mostly neutral with a clear positive tail and very few strong negatives.  
 LDA and clustering reveal narratives around admiration/legacy, season and performance at Al-Nassr, fan encouragement, and comparisons with Messi.
+
+- ### Hotel H Guest Segmentation (K-Means + PCA + Hierarchical Validation)
+
+**Code:** Notebook 01 – Data Prep & EDA | Notebook 02 – K-Means + PCA | Notebook 03 – Hierarchical Clustering
+**Goal:** Build a data-driven guest segmentation for a Lisbon hotel case study, beyond simple country-of-origin grouping.
+**Description:** Cleaned and prepared the dataset, encoded categorical features, applied PCA to reduce dimensionality, and clustered guests using K-Means. Cluster selection was supported with elbow + silhouette diagnostics, and hierarchical clustering was used as a robustness cross-check.
+**Skills:** Data cleaning, feature engineering, encoding, EDA, PCA, clustering (K-Means & hierarchical), silhouette/elbow evaluation, segmentation profiling.
+**Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib.
+**Results:** Identified 6 guest segments with clear differences across channel mix, lead time, stay intensity, revenue signals, and no-show rate.
