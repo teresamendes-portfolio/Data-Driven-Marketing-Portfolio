@@ -1,24 +1,32 @@
 # Teresa Mendes - Data-Driven Marketing Analytics Portfolio
-Welcome to my Data Analyst Portfolio!
-A collection of marketing analytics projects using Python, SQL and visualization to support real business decisions.
+
+## About
+Hi, I’m **Teresa Mendes**. I work at the intersection of **marketing and analytics**, using data to answer real business questions and turn insights into clear, actionable decisions.
+
+This repository is a collection of **data analytics projects** where I explore datasets, build analyses, and communicate findings that support decision-making.
 
 ---
 
-## Projects
+## Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Social & Brand Analytics](#social--brand-analytics)
+  - [Text & Sentiment Analytics (NLP)](#text--sentiment-analytics-nlp)
+  - [Segmentation & Customer Analytics](#segmentation--customer-analytics)
+- [Contact](#contact)
 
-- ### What Drives Engagement on Sephora Portugal’s Instagram
 
-**Code:** [Notebook – Sephora IG Engagement Analysis](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/instagram_engagement_analysis_sephora_pt.ipynb)
+## Portfolio Projects
 
-**Goal:** Identify the content formats, hashtags, and posting times that drive higher engagement for Sephora Portugal.
+### Social & Brand Analytics
+**What Drives Engagement on Sephora Portugal’s Instagram**  
 
-**Description:** Using public Instagram data collected via RapidAPI, this project builds a clean post-level dataset and analyzes performance across content types, hashtags, and posting schedule (weekday/hour). The analysis highlights what performs best and translates findings into actionable content strategy recommendations.
-
-**Skills:** data collection via APIs (RapidAPI), data cleaning, feature engineering, exploratory data analysis (EDA), engagement metrics, data visualization.
-
-**Technology:** Python, Pandas, NumPy, Matplotlib, RapidAPI.
-
-**Results:** Carousels outperform reels in engagement; late-week daytime posts show the strongest engagement; a small set of hashtags consistently correlates with higher engagement.
+- **Code:** [Notebook – Sephora IG Engagement Analysis](https://github.com/teresamendes-portfolio/PortfolioProjects/blob/main/Python_Projects/instagram_engagement_analysis_sephora_pt.ipynb)
+- **Goal:** Identify the content formats, hashtags, and posting times that drive higher engagement for Sephora Portugal.
+- **Description:** Using public Instagram data collected via RapidAPI, this project builds a clean post-level dataset and analyzes performance across content types, hashtags, and posting schedule (weekday/hour). The analysis highlights what performs best and translates findings into actionable content strategy recommendations.
+- **Skills:** data collection via APIs (RapidAPI), data cleaning, feature engineering, exploratory data analysis (EDA), engagement metrics, data visualization.
+- **Technology:** Python, Pandas, NumPy, Matplotlib, RapidAPI.
+- **Results:** Carousels outperform reels in engagement; late-week daytime posts show the strongest engagement; a small set of hashtags consistently correlates with higher engagement.
 
 
 
