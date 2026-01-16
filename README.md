@@ -38,7 +38,7 @@ This repository is a collection of **data analytics projects** where I explore d
 - **Description:** Academic project using public Instagram comments collected via RapidAPI. After cleaning the text, the notebook applies language detection, word frequency analysis, sentiment scoring, topic modeling (LDA), TF-IDF keyword extraction, co-occurrence analysis, and clustering to uncover the main narratives around the transfer.
 - **Skills:** Data collection via APIs (RapidAPI), text preprocessing, NLP (frequency, TF-IDF, LDA), sentiment analysis, clustering, network analysis, data visualization.
 - **Technology:** Python, Pandas, NLTK, TextBlob, Scikit-learn, NetworkX, Matplotlib, Seaborn, WordCloud, LangDetect, RapidAPI.
-- **Results (high level):** English comments are mainly supportive, dominated by admiration/legacy terms (e.g., “goat”, “best”, “love”). Sentiment is mostly neutral with a clear positive tail and very few strong negatives.  
+- **Results:** English comments are mainly supportive, dominated by admiration/legacy terms (e.g., “goat”, “best”, “love”). Sentiment is mostly neutral with a clear positive tail and very few strong negatives.  
 LDA and clustering reveal narratives around admiration/legacy, season and performance at Al-Nassr, fan encouragement, and comparisons with Messi.
 
 ---
